@@ -33,6 +33,8 @@ services:
       API_PLATFORM_CREATE_CLIENT_OUTPUT: .
       # On Linux, you may want to comment the following line for improved performance
       WATCHPACK_POLLING: "true"
+    ports:
+       - "3000:3000"
 
 ###> doctrine/doctrine-bundle ###
   database:

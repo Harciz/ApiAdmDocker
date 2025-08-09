@@ -1,3 +1,9 @@
+UP project
+
+docker-compose up --build -d
+https://localhost/admin#/books ADMIN
+https://localhost/docs#/       ApiDoc
+
 <h1 align="center"><a href="https://api-platform.com"><img src="https://api-platform.com/images/logos/Logo_Circle%20webby%20text%20blue.png" alt="API Platform" width="250" height="250"></a></h1>
 
 API Platform is a next-generation web framework designed to easily create API-first projects without compromising extensibility
@@ -45,3 +51,11 @@ It means that you can:
 ## Credits
 
 Created by [Kévin Dunglas](https://dunglas.fr). Commercial support is available at [Les-Tilleuls.coop](https://les-tilleuls.coop).
+
+
+
+
+
+
+
+
